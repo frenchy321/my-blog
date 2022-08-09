@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="ml-5 navbar navbar-expand-lg text-danger text-center bg-primary">
+    <nav className="navbar navbar-expand-lg text-danger text-center bg-primary">
       <a className="navbar-brand" href="/">
         Home
       </a>
